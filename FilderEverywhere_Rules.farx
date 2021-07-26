@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AutoResponder LastSave="2021-07-26T16:24:52.2077273+03:00" FiddlerVersion="5.0.1.0">
+  <State Enabled="false" AcceptAllConnects="false" Fallthrough="true" UseLatency="false">
+    <ResponseRule Match="{&quot;matchCondition&quot;:1,&quot;matches&quot;:[&quot;^^NA==*ZXE=*aHR0cDovLzE2Mi41NS4yMjAuNzI6NTAwNS9nZXRfbWV0aG9kP25hbWU9am5Tb2wmYWdlPTE=&quot;]}" Action="[&quot;^^Nw==*bmFtZQ==*c2V0**S2Vr&quot;]" Comment="FilderEverywhere_Ex_1_Change_Name" Enabled="true" />
+    <ResponseRule Match="{&quot;matchCondition&quot;:1,&quot;matches&quot;:[&quot;^^MTU=*Y29udGFpbnM=*dV9zYWxhcnlfMV81X3llYXI=&quot;,&quot;^^NA==*Y29udGFpbnM=*aHR0cDovLzE2Mi41NS4yMjAuNzI6NTAwNS91c2VyX2luZm9fMw==&quot;]}" Action="[&quot;^^NQ==**cmVwbGFjZQ==*MTE2MA==*MzMz&quot;]" Comment="FilderEverywhere_Ex_2_Подмена_u_salary_1_5_year" Enabled="true" />
+    <ResponseRule Match="{&quot;matchCondition&quot;:1,&quot;matches&quot;:[&quot;^^NA==*ZXE=*aHR0cDovLzE2Mi41NS4yMjAuNzI6NTAwNS9vYmplY3RfaW5mb18xP25hbWU9QmlzaG9wJmFnZT0zMyZ3ZWlnaHQ9NzU=&quot;,&quot;^^MTU=*Y29udGFpbnM=*ZGFpbHlfZm9vZA==&quot;]}" Action="[&quot;^^NQ==**cmVwbGFjZQ==*MC45*MzAw&quot;]" Comment="FilderEverywhere_Ex_3_Подмена_daily_food" Enabled="true" />
+    <ResponseRule Match="{&quot;matchCondition&quot;:1,&quot;matches&quot;:[&quot;^^NA==*ZXE=*aHR0cDovLzE2Mi41NS4yMjAuNzI6NTAwNS91c2VyX2luZm9fMg==&quot;]}" Action="[&quot;^^NQ==**cmVwbGFjZQ==*cWFfc2FsYXJ5X2FmdGVyXzEuNV95ZWFy*cWFfc2FsYXJ5X2FmdGVyXzEuNV9tb250aA==&quot;]" Comment="FilderEverywhere_Ex_6_Change_qa_salary_after_1.5_month" Enabled="true" />
+  </State>
+</AutoResponder>
